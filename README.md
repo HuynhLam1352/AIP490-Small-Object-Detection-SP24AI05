@@ -3,14 +3,14 @@
 
 ## Install
 ```bash
-$ git clone https://github.com/lieubachthanh/AIP490-Small-Object-Detection-SP24AI05.git
+$ git clone https://github.com/HuynhLam1352/AIP490-Small-Object-Detection-SP24AI05.git
 $ cd AIP490-Small-Object-Detection-SP24AI05
 $ pip install -r requirements.txt
 ```
 
 ## Run demo
 ```bash
-$ streamlit run demo.py
+$ streamlit run main.py
 ```
 
 ## Resources
